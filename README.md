@@ -1,6 +1,6 @@
 # Demosaicing with Deep Image Prior
 
-This repo is a basic implementation of Deep image prior (https://arxiv.org/abs/1711.10925) for DEMOSAICING.
+This repo is a basic implementation of [Deep image prior](https://arxiv.org/abs/1711.10925) for DEMOSAICING.
 
 Here demosaicing is done in sRGB plane.
 
